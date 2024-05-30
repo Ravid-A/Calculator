@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title">Homework assignment 1\nRavid Atia</string>
+    <string name="num">Num</string>
+    <string name="answer">Answer</string>
+    <string name="calculate">Calculate</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>power</item>
+    </string-array>
+</resources>
